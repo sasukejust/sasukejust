@@ -16,3 +16,7 @@ Discord Account: sasuke.#0767
 <p align="left">
   <a href="https://discord.com/users/792172393849552926" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/792172393849552926
+                            )](https://discord.com/users/792172393849552926)
