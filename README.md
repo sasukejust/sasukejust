@@ -1,8 +1,18 @@
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+<h1>Hello, I'm sasuke</h1>
+
+<p align="left"></p>
+Discord Account: sasuke.#0767
+<img src="https://lanyard-profile-readme.vercel.app/api/792172393849552926" width="%100" height"150px" />
+
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=sasukejust&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasukejust&layout=compact&theme=tokyonight"width="%100" height="150px" />
+ <img src="https://count.getloli.com/get/@sasukejust?theme=moebooru"width="%100" height="150px"/>
+</p>
+
+<h3>Social Media</h3>
+
+<p align="left">
+  <a href="https://discord.com/users/792172393849552926" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
